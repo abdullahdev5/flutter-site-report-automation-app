@@ -4,6 +4,7 @@ A Flutter mobile application that streamlines the process of creating profession
 ### ✨ Features
 📝 Add Notes with photos and voice recordings directly from your mobile device
 
+
 ### 🤖 AI Analysis (OpenAI API) to automatically detect:
 Issues & Problems
 
@@ -21,6 +22,7 @@ Recommended overall solutions & additional notes for the entire report
 
 🏠 View and fetch saved reports from the Home Screen anytime
 
+
 ### 🛠 Tech Stack
 Flutter (Dart) – Cross-platform mobile app development
 
@@ -30,15 +32,19 @@ PDF Generation – Professional report creation and sharing
 
 Shared Preferences – Offline report storage
 
+
 ## 🚀 Use Case
 ### Perfect for:
 Site Inspectors
+
 Engineers
+
 Field Workers
 
 This app saves hours of manual work by automating issue detection, solution generation, and professional PDF report creation — all from your mobile device.
 
-📌 Project Highlights
+
+### 📌 Project Highlights
 📷 Media capture (photos & audio)
 
 🤖 Advanced AI content generation
