@@ -54,3 +54,16 @@ This app saves hours of manual work by automating issue detection, solution gene
 📄 Instant PDF export
 
 💾 Offline storage for quick access
+
+## Screenshots
+
+![screenshot_1](https://github.com/user-attachments/assets/9b18009b-cb90-427f-a71c-a6d55d7864ec)
+![screenshot_2](https://github.com/user-attachments/assets/371cc0df-4fec-4455-ad6c-b58a7617f22a)
+![screenshot_3](https://github.com/user-attachments/assets/b578b4e6-b1d9-4dfb-a4a6-1337caa1f68c)
+![screenshot_4](https://github.com/user-attachments/assets/b1be5cb9-ea99-46fd-a3f1-175f746c6b2b)
+![screenshot_5](https://github.com/user-attachments/assets/4a67b18a-4b16-4b98-b6f0-aba1d1506dd8)
+![screenshot_6](https://github.com/user-attachments/assets/05a19251-6a73-4c7d-a3c9-f9f7a3436280)
+
+
+### NOTE:
+This is Freelancing Project that's Why I Can't Share the Code.
