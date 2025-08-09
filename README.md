@@ -22,6 +22,7 @@ A Flutter mobile application that streamlines the process of creating profession
 
 🏠 **View and fetch saved reports from the Home Screen anytime**
 
+---
 
 ## 🛠 Tech Stack
 **Flutter (Dart) – Cross-platform mobile app development**
@@ -32,6 +33,7 @@ A Flutter mobile application that streamlines the process of creating profession
 
 **Shared Preferences – Offline report storage**
 
+---
 
 ## 🚀 Use Case
 ### Perfect for:
@@ -43,6 +45,7 @@ A Flutter mobile application that streamlines the process of creating profession
 
 This app saves hours of manual work by automating issue detection, solution generation, and professional PDF report creation — all from your mobile device.
 
+---
 
 ## 📌 Project Highlights
 📷 **Media capture (photos & audio)**
@@ -55,7 +58,9 @@ This app saves hours of manual work by automating issue detection, solution gene
 
 💾 **Offline storage for quick access**
 
-## Screenshots
+---
+
+## 📷 Screenshots
 
 ![screenshot_1](https://github.com/user-attachments/assets/9b18009b-cb90-427f-a71c-a6d55d7864ec)
 
@@ -69,6 +74,7 @@ This app saves hours of manual work by automating issue detection, solution gene
 
 ![screenshot_6](https://github.com/user-attachments/assets/05a19251-6a73-4c7d-a3c9-f9f7a3436280)
 
+---
 
 ## NOTE:
 This is Freelancing Project that's Why I Can't Share the Code.
